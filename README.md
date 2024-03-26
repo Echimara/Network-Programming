@@ -1,5 +1,7 @@
 # Network-Programming
 
+![screenshot](https://github.com/Echimara/Network-Programming/blob/main/Network%20Programming.png)
+
 - This project uses **UDP** to communicate over the INET domain between a server and a client.
 - In the client-server _Python_ program, `server.py` runs and waits for `client.py` to connect.
 - If the connection is successful, `client.py` sends 10 ping messages and waits for `server.py` with a timeout.
